@@ -41,11 +41,11 @@ request:
 response:
 
 {
-	"data": {
-		"wallet_id": "228dfafa-0e46-412f-9339-97e5e18bba1e",
-		"amount": 6000,
-		"is_threshold": false,
-		"updated_at": "2022-06-17T11:51:25.8853061+07:00"
-	}
+  "data": {
+    "wallet_id": "228dfafa-0e46-412f-9339-97e5e18bba1e",
+    "amount": 6000,
+    "is_threshold": false,
+    "updated_at": "2022-06-17T11:51:25.8853061+07:00"
+  }
 }
 ```
