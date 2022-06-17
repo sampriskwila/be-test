@@ -27,7 +27,7 @@ make prune
 ### POST - localhost:8080/api/v1/balance
 
 ```json
-body request:
+request:
 
 {
   "wallet_id": "228dfafa-0e46-412f-9339-97e5e18bba1e",
@@ -38,7 +38,7 @@ body request:
 ### GET - localhost:8080/api/v1/balance/{wallet_id}
 
 ```json
-body request:
+response:
 
 {
 	"data": {
